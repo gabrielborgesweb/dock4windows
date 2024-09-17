@@ -1,0 +1,14 @@
+{
+  "name": "dock4windows",
+  "version": "1.0.0",
+  "description": "Dock for Windows",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Gabriel Borges",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^32.1.0"
+  }
+}
